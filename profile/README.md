@@ -4,8 +4,6 @@
 
 ---
 
-[참고](https://github.com/f-lab-edu/event-recommender-festa)
-
 ### 🥥 Git-Flow 브랜치 전략
 
 **Git-Flow 브랜치 전략**에 따라 기능별로 브랜치를 나누어 작업하고 있고 모든 브랜치에 대해 pull request를 통한 리뷰 완료 후 Merge를 하고 있습니다.
@@ -23,6 +21,7 @@
 #### 참고문헌
 
 - [우아한 형제들 기술블로그 "우린 Git-flow를 사용하고 있어요"](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+- [README 참고](https://github.com/f-lab-edu/event-recommender-festa)
 
 ### 🥥 PR 규칙
 
