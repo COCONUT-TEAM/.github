@@ -1,10 +1,10 @@
 # COCONUT
 
-안녕하세요. 팀 코코넛의 Organizations 입니다!
+안녕하세요. 팀 코코넛의 Organizations 입니다! 😄
 
 ---
 
-참고: https://github.com/f-lab-edu/event-recommender-festa
+[참고](https://github.com/f-lab-edu/event-recommender-festa)
 
 ### 🥥 Git-Flow 브랜치 전략
 
@@ -13,14 +13,16 @@
 ![1](https://github.com/COCONUT-TEAM/backend/assets/7845568/24866eab-aa99-44fb-acb4-7b7a3619ef28)
 
 ✅ master : 제품으로 출시될 수 있는 브랜치
+
 ✅ develop : 다음 출시 버전을 개발하는 브랜치. feature에서 리뷰완료한 브랜치를 Merge
+
 ✅ feature : 기능을 개발하는 브랜치
+
 ✅ hotfix : 출시 버전에서 발생한 버그를 수정하는 브랜치
 
 #### 참고문헌
 
-- 우아한 형제들 기술블로그 "우린 Git-flow를 사용하고 있어요"
-  https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
+- [우아한 형제들 기술블로그 "우린 Git-flow를 사용하고 있어요"](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
 ### 🥥 PR 규칙
 
